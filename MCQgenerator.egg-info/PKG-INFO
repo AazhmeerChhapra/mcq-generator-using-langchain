@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: MCQgenerator
+Version: 0.0.1
+Author: Aazhmmer chhapra
+Author-email: aazhmeerchhapra@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: streamlit
