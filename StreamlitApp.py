@@ -11,7 +11,7 @@ from src.mcqgenerator.utils import read_file, get_table
 from src.mcqgenerator.logger import logging
 
 #loading Json file
-with open('F:\GenAI 1\mcq generator using langchain\Response.json', 'r') as file:
+with open('Response.json', 'r') as file:
     RESPONSEJSON = json.load(file)
 
 st.title("MCQ Generator App using Langchain")
